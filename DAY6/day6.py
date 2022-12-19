@@ -6,6 +6,5 @@ def difflenght(a):
         s = set(lst)
         if len(s) == a:
             return i+a
-            break
 print(difflenght(4))
 print(difflenght(14))
